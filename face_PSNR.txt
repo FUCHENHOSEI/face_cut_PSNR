@@ -1,0 +1,3 @@
+face_only_1.jpg vs face_only_12.jpg: 29.586873821117315
+face_only_1.jpg vs face_only_5.jpg: 30.005418830696943
+face_only_12.jpg vs face_only_5.jpg: 31.302872037270483

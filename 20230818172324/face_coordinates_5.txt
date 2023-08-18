@@ -1,0 +1,1 @@
+{'left_eye': (575, 203), 'right_eye': (654, 205), 'nose': (617, 257), 'mouth_left': (577, 294), 'mouth_right': (651, 294), 'bounding_box': [523, 102, 178, 252]}
