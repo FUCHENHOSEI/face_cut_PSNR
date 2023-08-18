@@ -8,7 +8,12 @@ Implementation of the MTCNN face detector for Keras in Python3.4+. It is written
 
 Currently, it is only supported in Python3.4 onwards. It can be installed through pip:
 
-$ pip install mtcnn
+<details>
+  <summary>展开</summary>
+
+ $ pip install mtcnn
+</details>
+
 
 This implementation requires OpenCV>=4.1 and Keras>=2.0.0 (any Tensorflow supported by Keras will be supported by this MTCNN package). If this is the first time you use tensorflow, you will probably need to install it in your system:
 
