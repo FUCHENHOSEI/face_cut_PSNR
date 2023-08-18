@@ -20,4 +20,4 @@ conda install tensorflow
 ```
 Note that tensorflow-gpu version can be used instead if a GPU device is available on the system, which will speed up the results.
 
-## Usage
+## Usage 
