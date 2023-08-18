@@ -21,3 +21,7 @@ conda install tensorflow
 Note that tensorflow-gpu version can be used instead if a GPU device is available on the system, which will speed up the results.
 
 ## Usage 
+![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/fu_test/1.jpg)
+![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_1.jpg)
+![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_12.jpg)
+![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_5.jpg)
