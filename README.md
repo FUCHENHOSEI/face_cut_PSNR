@@ -21,7 +21,17 @@ conda install tensorflow
 Note that tensorflow-gpu version can be used instead if a GPU device is available on the system, which will speed up the results.
 
 ## Usage 
+###Please first put the required original images in the fu_text folder as follows (you can put as many as you want):
 ![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/fu_test/1.jpg)
+
+###The cropped images will be in a folder named with the current time, where the cropped face images are as follows:
 ![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_1.jpg)
 ![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_12.jpg)
 ![image](https://github.com/FUCHENHOSEI/face_cut_PSNR/blob/main/20230818172324/face_only_5.jpg)
+
+Then put the face images that need to be compared in the face_PSNR_test folder (this step needs to be manually picked by yourself, you can put any number of sheets, each other directly will be all compared):
+```
+face_only_1.jpg vs face_only_12.jpg: 29.586873821117315
+face_only_1.jpg vs face_only_5.jpg: 30.005418830696943
+face_only_12.jpg vs face_only_5.jpg: 31.302872037270483
+```
